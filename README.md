@@ -3,12 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>JS Bin</title>
+
   
 </head>
-<body> {
-  background-image: http://bostonurbanplanning.weebly.com/uploads/1/7/7/9/17798851/625650479.jpg?357("boston skyline");
-}
+<body> 
   <h1 style="background-color:lavender;">The how to's of apartment living</h1>
   <p style="background-color:AliceBlue;">
     <h4>When you're a college student who moves out of their childhood home, you're going to have some questions. The process can be difficult at times. Here are some things I've learned along the way.</H4>
