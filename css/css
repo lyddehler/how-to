@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+  background-color: #ffc;
+  max-width: 40em;
+  padding: 0 5%;
+  margin: 0 auto;
+  }
