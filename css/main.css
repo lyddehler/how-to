@@ -11,9 +11,10 @@ body {
   margin: auto;
   }
 h1 {
-  color: white;
+  color: white
 }
 h3 {color: white; font-family: cursive; text-align: center }
-h4 {color: white; border: 5px solid white; padding: 25px}
+h4 {color: white; border: 5px solid white; padding: 25px; text-align: center}
 h5 {color: white; font-style: italic}
 ul {color: white}
+p {color: white; border: 5px solid white; padding: 20px; text-align: center; font-weight: bold}
