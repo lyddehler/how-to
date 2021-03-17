@@ -6,6 +6,7 @@
 </head>
 <body> 
   <h1 style="background-color:lavender;">The how to's of apartment living</h1>
+  <img src = “how-to/img/boston-skyline.jpg” width =200 height =auto>
     <h4>When you're a college student who moves out of their childhood home, you're going to have some questions. The process can be difficult at times. Here are some things I've learned along the way.</H4>
 <ul>
   <li>You're going to have to make a budget.</li>
