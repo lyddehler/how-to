@@ -1,4 +1,3 @@
-![boston-skyline](https://user-images.githubusercontent.com/78110865/111494323-bde61400-8714-11eb-8fa7-4c7214813b35.jpg)
 ![](boston-skyline.jpg)
 # how-to
 <html>
